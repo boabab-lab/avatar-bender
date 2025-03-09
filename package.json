@@ -1,0 +1,20 @@
+{
+  "name": "avatar-bender",
+  "version": "0.0.0",
+  "description": "Svg avatar generator",
+  "homepage": "https://github.com/boabab-lab/avatar-bender#readme",
+  "bugs": {
+    "url": "https://github.com/boabab-lab/avatar-bender/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boabab-lab/avatar-bender.git"
+  },
+  "license": "MIT",
+  "author": "boabab-labs",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
